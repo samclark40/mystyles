@@ -5,8 +5,8 @@ lines.markersize : 8
 xtick.labelsize : 16
 ytick.labelsize : 16
 figure.dpi : 150
-axes.titlepad :15
-figure.figsize: 5.0, 3.75 # need to be float, be aware 5 is int. 
+axes.titlepad : 15
+figure.figsize: 5.0, 3.75 # need to be float, be aware 5 is int.
 font.family : sans-serif
 font.sans-serif: Calibri
 
