@@ -6,7 +6,7 @@ xtick.labelsize : 16
 ytick.labelsize : 16
 figure.dpi : 150
 axes.titlepad : 10
-figure.figsize: 3.75, 5
+figure.figsize: 5, 3.75
 font.family : sans-serif
 font.sans-serif: Calibri
 
